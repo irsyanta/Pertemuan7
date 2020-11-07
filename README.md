@@ -6,6 +6,8 @@
 
 ## nim:312010409
 
+![wnd](foto/wnd.png)
+
         for bar in range(baris):
             for col in range(kolom):
                 tab = bar+col
