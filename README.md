@@ -1,17 +1,16 @@
 # PRAKTIKUM 1 - LATIHAN 1
 
-![wnd](foto/wnd.png)
+## Nama : irsyanta bagus <br>
 
-Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas. Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
+## kelas: TI.20.A <br>
 
-baris = 10
-kolom = baris
+## nim:312010409
 
-for bar in range(baris):
-    for col in range(kolom):
-        tab = bar+col
-        print("{0:>5}".format(tab), end='')
-    print()
+        for bar in range(baris):
+            for col in range(kolom):
+                tab = bar+col
+                print("{0:>5}".format(tab), end='')
+            print()
 Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan
 
 for bar in range(baris):
